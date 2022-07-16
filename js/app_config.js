@@ -128,7 +128,7 @@ const INFOR_CV_VN = {
         },
         {
           name: 'Công nghệ sử dụng',
-          value: 'Android, Googgle Map, Google Drive, MySQL.'
+          value: 'Android, Googgle Map, Google Drive API, MySQL.'
         }
       ]
     },
@@ -215,7 +215,7 @@ const INFOR_CV_VN = {
     },
     {
       name: 'Quản lý tuyến cáp, hệ thống cáp quang',
-      company: 'CTy cổ phần tư vấn xây dựng BƯU ĐIỆN POTECO - VNPT',
+      company: 'Công ty cổ phần tư vấn xây dựng BƯU ĐIỆN POTECO - VNPT',
       description:
         'Hỗ trợ xây dựng bản đồ, quản lý hệ thống tuyến cáp quang.',
       info: [

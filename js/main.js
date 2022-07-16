@@ -101,7 +101,7 @@ function clickBtnExportCV() {
 
 function clickBtnDetailCV() {
   btnDetailCV.click(function() {
-    window.open("public/CVNguyenTrongDuong_EN.docx", "_blank");
+    window.open("public/CV_DoXuanHieu_EN.docx", "_blank");
   })
 }
 
